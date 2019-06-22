@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int squareRoot(int n,int p){
+float squareRoot(int n,int p){
 	int s=0;
 	int  e = n;
 	float ans = 0.0;
